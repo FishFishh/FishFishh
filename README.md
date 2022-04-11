@@ -60,7 +60,7 @@
 </div>
 <!--ea6161,ffc64d,fffc4d,52fa5ax-->
 <div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fish214057&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,feac5e,c779d0,4bc0c8&theme=graywhite" />
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fish214057&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,aaffa9,11ffbd&theme=graywhite" />
 </div>
 
 <div align="center">
