@@ -13,8 +13,9 @@
 
 <!-- 社交网站 -->
 <div align="center">
+	<img src="https://emoji.discord.st/emojis/00c6e060-f647-4e9c-b06f-ce5d44866ff3.gif" width="25">
  <a href="https://twitter.com/fish_214057"><img width="20px" alt="Free Stuff" title="Fish's twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-		&nbsp;
+	<img src="https://emoji.discord.st/emojis/00c6e060-f647-4e9c-b06f-ce5d44866ff3.gif" width="25">
  </div>
  <h1>&nbsp;</h1>
 <div align="center">
