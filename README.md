@@ -23,9 +23,9 @@
 👨‍💻 Programming languages
 </div>
 <div align="center">
-  <img src="https://github.com/fish214057/image/blob/main/icon/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/fish214057/image/blob/main/icon/spring.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/fish214057/image/blob/main/icon/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/fish214057/PicGoDemo/blob/main/icon/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/fish214057/PicGoDemo/blob/main/icon/spring.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/fish214057/PicGoDemo/blob/main/icon/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 	&nbsp;
 </div>
 
