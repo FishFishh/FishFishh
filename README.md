@@ -19,9 +19,11 @@
 	<img src="https://emoji.discord.st/emojis/00c6e060-f647-4e9c-b06f-ce5d44866ff3.gif" width="25">
  </div>
  <h1>&nbsp;</h1>
-<details>
+ 
+<details>	
+<summary align="center"><b>👨‍💻Programming languages</b></summary><br>
 <div align="center">
-👨‍💻 Programming languages
+Programming languages
 </div>
 <div align="center">
   <img src="https://github.com/FishFishh/PicGoDemo/blob/main/icon/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -40,8 +42,10 @@
 </div>
 
 <br></details>
+<details>	
+<summary align="center"><b>📈Data</b></summary><br>
 <div align="center"> 
-	📈Data📈
+	Data
 </div>
 <div align="center">
 	<h3>
@@ -69,6 +73,8 @@
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=FishFishh&theme=xcode" />
 </div>
+
+<br></details>
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/00c6e060-f647-4e9c-b06f-ce5d44866ff3.gif" width="25">
