@@ -19,6 +19,7 @@
 	<img src="https://emoji.discord.st/emojis/00c6e060-f647-4e9c-b06f-ce5d44866ff3.gif" width="25">
  </div>
  <h1>&nbsp;</h1>
+<details>
 <div align="center">
 👨‍💻 Programming languages
 </div>
@@ -38,7 +39,7 @@
 		&nbsp;
 </div>
 
-
+<br></details>
 <div align="center"> 
 	📈Data📈
 </div>
