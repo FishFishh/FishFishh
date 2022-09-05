@@ -37,7 +37,7 @@ Programming languages
 	⚡Like⚡
 </div>
 <div align="center">
- <a href="https://steamcommunity.com/id/fishfishh/"><img width="20px" alt="Free Stuff" title="Fish's twitter" src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=#28B463"/></a>
+ <a href="https://steamcommunity.com/id/fishfishh/"><img alt="Free Stuff" title="Fish's twitter" src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=#28B463"/></a>
 		&nbsp;
 </div>
 
